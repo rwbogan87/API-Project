@@ -1,0 +1,45 @@
+body {
+    background: url("https://i.imgur.com/XtJVNq2.png") no-repeat center center fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.customjumbo {
+    padding: 30px;
+    margin-bottom: 30px;
+    font-size: 21px;
+    font-weight: 200;
+    line-height: 2.2;
+    color: white;
+    background-color: transparent;
+    text-align: center;
+ }
+
+.btn-search {
+    background: #424242;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #1c1c1c;
+}
+
+.btn-search:active, .btn-search:hover {
+background: #1c1c1c;
+color: #fff;
+}
+
+#clearButton {
+    background-color: #424242;
+}
+
+#window {
+    width: 80%;
+    margin-left: 10%;
+}
+
+#tablebody {
+    width: 80%;
+    margin-left: 10%;
+}
